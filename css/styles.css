@@ -12,22 +12,27 @@ body{
   background-color: #0C090A;
   font-family: sans-serif;
   color: #E5E4E2;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  text-align: center;
 }
 
 .footer{
   text-align: center;
-  position: sticky;
+  position: relative;
   bottom: 0px;
   left: 0px;
+  right: 0px;
   width: 100%;
 }
 
 #about {
-  font size: 26px;
+  font size: 28px;
+  text-align: left;
 }
 
-.columns{
-  width: 32%;
-  float:left;
-  padding: 10px;
+.column {
+  column-count:3;
+
 }

@@ -6,6 +6,8 @@
   This is a page website showing what I do and who I am. it gives a brief insight into my talents as it was coded by me.
   It also links to a few of my projects.
 
+
+
 MIT License
 
 Copyright (c) 2018 James Kageni
