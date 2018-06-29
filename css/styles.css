@@ -1,7 +1,17 @@
 img{
-  float: right;
+  max-width: 40%;
+  max-height: 40%;
 }
 
-.name{
+#name{
   text-align: center;
+  font-family: cursive;
+}
+
+body{
+  background-image: url(img/back.jpg);
+  font-family: monospace;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-top: 3%;
 }
