@@ -6,14 +6,14 @@
   This is a page website showing what I do and who I am. it gives a brief insight into my talents as it was coded by me.
   It also links to a few of my projects.
 
-## Setup instructions
-  1. copy the clone link provided in the repository
-  2. start your command line
-  3. run the git clone command with the copied links
-  4. make changes to the remote(s) used to point to your repository
+## Setup Instructions
+  1. Copy the clone link provided in the repository
+  2. Start your command line
+  3. Run the git clone command with the copied links
+  4. Make changes to the remote(s) used to point to your repository
 
 
-a live view of the repository can be found at: https://kagenijk.github.io/my-portfolio/
+#### A live view of the repository can be found at: https://kagenijk.github.io/my-portfolio/
 
 
 MIT License
