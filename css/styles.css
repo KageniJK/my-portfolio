@@ -1,7 +1,8 @@
-#mine{
-  max-width: 50%;
-  max-height: 50%;
-}
+/* #mine{
+  max-width: 30rem;
+  max-height: 30rem;
+  float:left;
+} */
 
 #name{
   text-align: center;
@@ -11,6 +12,9 @@
 body{
   background-color: #0C090A;
   background-image: url("../img/compback.jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-attachment: fixed;
   font-family: sans-serif;
   color: #E5E4E2;
   padding-left: 20px;
@@ -18,6 +22,8 @@ body{
   padding-top: 5px;
   text-align: center;
   margin 3%;
+  font-family: play;
+  font-size: 25px;
 }
 
 .footer{
@@ -31,7 +37,7 @@ body{
 
 #about {
   font size: 28px;
-  text-align: left;
+  text-align: center;
 }
 
 .column {
@@ -49,7 +55,7 @@ body{
   max-width: 30%;
   max height: 30%;
 }
-
-.lists{
-  column-count: 4;
+.padded {
+  padding-top: 20px;
+  padding-bottom:20px;
 }
