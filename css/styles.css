@@ -1,23 +1,23 @@
-/* #mine{
+#mine{
   max-width: 30rem;
   max-height: 30rem;
   float:left;
-} */
-
-#name{
-  text-align: center;
-  font-family: cursive;
+  padding-top: 5%;
+  padding-right: 3%
 }
 
 body{
   background-color: #0C090A;
-  background-image: url("../img/car1.jpg");
+  background-image: url("../img/speedo.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
   font-family: sans-serif;
-  color: #E5E4E2;
+  color: #ffffff;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
   text-align: center;
   margin 3%;
   font-family: play;
@@ -34,8 +34,14 @@ body{
 }
 
 #about {
+  padding-top:auto;
   font size: 28px;
   text-align: center;
+  height: auto;
+  width: auto;
+  background-color: rgba(0, 0, 0, 0.65);
+  padding-bottom: 5%;
+  margin-bottom: 5rem;
 }
 
 .column {
@@ -60,4 +66,10 @@ body{
 
 .left-al{
   text-align: left;
+}
+
+.lists{
+  height: auto;
+  width: auto;
+  background-color: rgba(0, 0, 0, 0.65);
 }
